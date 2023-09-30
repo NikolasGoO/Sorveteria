@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\bin\Debug\net6.0\Sorveteria.exe
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\bin\Debug\net6.0\Sorveteria.deps.json
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\bin\Debug\net6.0\Sorveteria.runtimeconfig.json
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\bin\Debug\net6.0\Sorveteria.dll
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\bin\Debug\net6.0\Sorveteria.pdb
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\Sorveteria.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\Sorveteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\Sorveteria.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\Sorveteria.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\Sorveteria.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\Sorveteria.dll
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\refint\Sorveteria.dll
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\Sorveteria.pdb
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\Sorveteria.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\Sorveteria\Sorveteria\obj\Debug\net6.0\ref\Sorveteria.dll
