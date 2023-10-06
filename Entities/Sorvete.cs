@@ -10,6 +10,5 @@ namespace Sorveteria.Entities
     public class Sorvete
     {
         public SaborSorvete SaborSorvete { get; set; }
-        public decimal ValorSorvete { get; set; }
     }
 }
